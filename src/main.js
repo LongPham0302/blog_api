@@ -3,6 +3,8 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 import './plugin'
+import './assets/style.css';
+
 // import './demoAsyc'
 new Vue({
     el: '#app',
